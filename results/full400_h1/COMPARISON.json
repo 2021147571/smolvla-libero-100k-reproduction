@@ -1,0 +1,1266 @@
+{
+  "spatial": {
+    "parent": 87,
+    "teacher": 78,
+    "tasks": [
+      {
+        "task_id": 0,
+        "parent": 9,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 0
+      },
+      {
+        "task_id": 1,
+        "parent": 9,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 0
+      },
+      {
+        "task_id": 2,
+        "parent": 9,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 0
+      },
+      {
+        "task_id": 3,
+        "parent": 9,
+        "teacher": 9,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 1
+      },
+      {
+        "task_id": 4,
+        "parent": 9,
+        "teacher": 6,
+        "parent_outcomes": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          false,
+          true,
+          false,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 3
+      },
+      {
+        "task_id": 5,
+        "parent": 6,
+        "teacher": 0,
+        "parent_outcomes": [
+          true,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_outcomes": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "teacher_only": 0,
+        "parent_only": 6
+      },
+      {
+        "task_id": 6,
+        "parent": 10,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 0
+      },
+      {
+        "task_id": 7,
+        "parent": 9,
+        "teacher": 8,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 2
+      },
+      {
+        "task_id": 8,
+        "parent": 9,
+        "teacher": 7,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 2
+      },
+      {
+        "task_id": 9,
+        "parent": 8,
+        "teacher": 8,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 0
+      }
+    ]
+  },
+  "object": {
+    "parent": 83,
+    "teacher": 74,
+    "tasks": [
+      {
+        "task_id": 0,
+        "parent": 9,
+        "teacher": 7,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 3
+      },
+      {
+        "task_id": 1,
+        "parent": 10,
+        "teacher": 5,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          false,
+          false,
+          true,
+          true,
+          false,
+          true,
+          false,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 5
+      },
+      {
+        "task_id": 2,
+        "parent": 10,
+        "teacher": 9,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 1
+      },
+      {
+        "task_id": 3,
+        "parent": 9,
+        "teacher": 8,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 2
+      },
+      {
+        "task_id": 4,
+        "parent": 5,
+        "teacher": 5,
+        "parent_outcomes": [
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          false
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          false,
+          false
+        ],
+        "teacher_only": 2,
+        "parent_only": 2
+      },
+      {
+        "task_id": 5,
+        "parent": 5,
+        "teacher": 5,
+        "parent_outcomes": [
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          false,
+          true,
+          true,
+          false
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 1
+      },
+      {
+        "task_id": 6,
+        "parent": 10,
+        "teacher": 8,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 2
+      },
+      {
+        "task_id": 7,
+        "parent": 10,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 0
+      },
+      {
+        "task_id": 8,
+        "parent": 7,
+        "teacher": 9,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 3,
+        "parent_only": 1
+      },
+      {
+        "task_id": 9,
+        "parent": 8,
+        "teacher": 8,
+        "parent_outcomes": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true
+        ],
+        "teacher_only": 2,
+        "parent_only": 2
+      }
+    ]
+  },
+  "goal": {
+    "parent": 82,
+    "teacher": 76,
+    "tasks": [
+      {
+        "task_id": 0,
+        "parent": 10,
+        "teacher": 6,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          false,
+          false,
+          true,
+          true,
+          true,
+          false
+        ],
+        "teacher_only": 0,
+        "parent_only": 4
+      },
+      {
+        "task_id": 1,
+        "parent": 10,
+        "teacher": 9,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 1
+      },
+      {
+        "task_id": 2,
+        "parent": 9,
+        "teacher": 9,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 1
+      },
+      {
+        "task_id": 3,
+        "parent": 6,
+        "teacher": 6,
+        "parent_outcomes": [
+          true,
+          true,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          false,
+          true,
+          false
+        ],
+        "teacher_only": 3,
+        "parent_only": 3
+      },
+      {
+        "task_id": 4,
+        "parent": 10,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 0
+      },
+      {
+        "task_id": 5,
+        "parent": 10,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 0
+      },
+      {
+        "task_id": 6,
+        "parent": 5,
+        "teacher": 3,
+        "parent_outcomes": [
+          true,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          true,
+          false
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          false,
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false
+        ],
+        "teacher_only": 1,
+        "parent_only": 3
+      },
+      {
+        "task_id": 7,
+        "parent": 9,
+        "teacher": 9,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 1
+      },
+      {
+        "task_id": 8,
+        "parent": 9,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 1,
+        "parent_only": 0
+      },
+      {
+        "task_id": 9,
+        "parent": 4,
+        "teacher": 4,
+        "parent_outcomes": [
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false
+        ],
+        "teacher_only": 3,
+        "parent_only": 3
+      }
+    ]
+  },
+  "10": {
+    "parent": 53,
+    "teacher": 57,
+    "tasks": [
+      {
+        "task_id": 0,
+        "parent": 3,
+        "teacher": 0,
+        "parent_outcomes": [
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          true
+        ],
+        "teacher_outcomes": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "teacher_only": 0,
+        "parent_only": 3
+      },
+      {
+        "task_id": 1,
+        "parent": 6,
+        "teacher": 6,
+        "parent_outcomes": [
+          false,
+          false,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_only": 2,
+        "parent_only": 2
+      },
+      {
+        "task_id": 2,
+        "parent": 9,
+        "teacher": 8,
+        "parent_outcomes": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 1
+      },
+      {
+        "task_id": 3,
+        "parent": 10,
+        "teacher": 10,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 0,
+        "parent_only": 0
+      },
+      {
+        "task_id": 4,
+        "parent": 2,
+        "teacher": 4,
+        "parent_outcomes": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          false,
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false
+        ],
+        "teacher_only": 3,
+        "parent_only": 1
+      },
+      {
+        "task_id": 5,
+        "parent": 6,
+        "teacher": 9,
+        "parent_outcomes": [
+          true,
+          false,
+          true,
+          false,
+          true,
+          false,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_outcomes": [
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "teacher_only": 3,
+        "parent_only": 0
+      },
+      {
+        "task_id": 6,
+        "parent": 4,
+        "teacher": 6,
+        "parent_outcomes": [
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false
+        ],
+        "teacher_outcomes": [
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        "teacher_only": 4,
+        "parent_only": 2
+      },
+      {
+        "task_id": 7,
+        "parent": 3,
+        "teacher": 5,
+        "parent_outcomes": [
+          false,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false
+        ],
+        "teacher_outcomes": [
+          false,
+          false,
+          true,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          false
+        ],
+        "teacher_only": 3,
+        "parent_only": 1
+      },
+      {
+        "task_id": 8,
+        "parent": 2,
+        "teacher": 2,
+        "parent_outcomes": [
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "teacher_outcomes": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          true
+        ],
+        "teacher_only": 2,
+        "parent_only": 2
+      },
+      {
+        "task_id": 9,
+        "parent": 8,
+        "teacher": 7,
+        "parent_outcomes": [
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false
+        ],
+        "teacher_outcomes": [
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true,
+          false
+        ],
+        "teacher_only": 1,
+        "parent_only": 2
+      }
+    ]
+  }
+}
