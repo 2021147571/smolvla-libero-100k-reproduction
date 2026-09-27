@@ -1,0 +1,523 @@
+{
+  "model": "lerobot/smolvla_libero",
+  "revision": "31d453f7edd78c839a8bbc39744a292686daf0de",
+  "horizon": 10,
+  "seed": 1000,
+  "num_steps": 10,
+  "amp": false,
+  "batch_size": 1,
+  "states": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "suites": {
+    "spatial": {
+      "successes": 75,
+      "episodes": 100,
+      "tasks": [
+        {
+          "task_id": 0,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 1,
+          "successes": 9,
+          "outcomes": [
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 2,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 3,
+          "successes": 9,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 4,
+          "successes": 5,
+          "outcomes": [
+            true,
+            false,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "task_id": 5,
+          "successes": 0,
+          "outcomes": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+          ]
+        },
+        {
+          "task_id": 6,
+          "successes": 8,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "task_id": 7,
+          "successes": 8,
+          "outcomes": [
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "task_id": 8,
+          "successes": 7,
+          "outcomes": [
+            true,
+            false,
+            false,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 9,
+          "successes": 9,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    "object": {
+      "successes": 88,
+      "episodes": 100,
+      "tasks": [
+        {
+          "task_id": 0,
+          "successes": 9,
+          "outcomes": [
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 1,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 2,
+          "successes": 8,
+          "outcomes": [
+            true,
+            true,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 3,
+          "successes": 9,
+          "outcomes": [
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 4,
+          "successes": 8,
+          "outcomes": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 5,
+          "successes": 7,
+          "outcomes": [
+            true,
+            true,
+            true,
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "task_id": 6,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 7,
+          "successes": 8,
+          "outcomes": [
+            true,
+            true,
+            false,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 8,
+          "successes": 9,
+          "outcomes": [
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 9,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    },
+    "goal": {
+      "successes": 87,
+      "episodes": 100,
+      "tasks": [
+        {
+          "task_id": 0,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 1,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 2,
+          "successes": 8,
+          "outcomes": [
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 3,
+          "successes": 9,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 4,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 5,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 6,
+          "successes": 4,
+          "outcomes": [
+            false,
+            true,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true,
+            true,
+            false
+          ]
+        },
+        {
+          "task_id": 7,
+          "successes": 10,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 8,
+          "successes": 9,
+          "outcomes": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "task_id": 9,
+          "successes": 7,
+          "outcomes": [
+            true,
+            true,
+            true,
+            true,
+            false,
+            false,
+            false,
+            true,
+            true,
+            true
+          ]
+        }
+      ]
+    }
+  },
+  "successes": 250,
+  "episodes": 300
+}
