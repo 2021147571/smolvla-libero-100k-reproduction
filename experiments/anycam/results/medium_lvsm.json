@@ -1,0 +1,152 @@
+[
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 80,
+    "seconds": 18.142129473388195
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 125,
+    "seconds": 26.470994047820568
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "medium_lvsm",
+    "success": false,
+    "steps": 280,
+    "seconds": 60.64506854861975
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 90,
+    "seconds": 19.65931160002947
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 87,
+    "seconds": 19.265397131443024
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 190,
+    "seconds": 39.44435928761959
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 136,
+    "seconds": 28.485627353191376
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 146,
+    "seconds": 30.898807354271412
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 143,
+    "seconds": 29.877336032688618
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 153,
+    "seconds": 31.558496415615082
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 128,
+    "seconds": 26.831534907221794
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 122,
+    "seconds": 26.007065817713737
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 219,
+    "seconds": 52.65335577726364
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 134,
+    "seconds": 30.38784871995449
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "medium_lvsm",
+    "success": true,
+    "steps": 109,
+    "seconds": 24.918962620198727
+  }
+]

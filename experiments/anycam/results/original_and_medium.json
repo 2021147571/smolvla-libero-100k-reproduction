@@ -1,0 +1,302 @@
+[
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "original",
+    "success": true,
+    "steps": 79,
+    "seconds": 15.49954155832529
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 73,
+    "seconds": 12.991218656301498
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "original",
+    "success": true,
+    "steps": 96,
+    "seconds": 17.86643037199974
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "combined_medium",
+    "success": false,
+    "steps": 280,
+    "seconds": 50.17872528731823
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "original",
+    "success": false,
+    "steps": 280,
+    "seconds": 51.22399049252272
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 97,
+    "seconds": 18.17202404886484
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "original",
+    "success": true,
+    "steps": 80,
+    "seconds": 15.23479338735342
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 80,
+    "seconds": 15.060798585414886
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "original",
+    "success": true,
+    "steps": 80,
+    "seconds": 14.873972065746784
+  },
+  {
+    "suite": "spatial",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 78,
+    "seconds": 14.712294027209282
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "original",
+    "success": true,
+    "steps": 162,
+    "seconds": 28.52806019037962
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 232,
+    "seconds": 41.13077776134014
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "original",
+    "success": false,
+    "steps": 280,
+    "seconds": 48.950425535440445
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "combined_medium",
+    "success": false,
+    "steps": 280,
+    "seconds": 48.08043175190687
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "original",
+    "success": true,
+    "steps": 141,
+    "seconds": 25.837301775813103
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "combined_medium",
+    "success": false,
+    "steps": 280,
+    "seconds": 48.02723919600248
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "original",
+    "success": true,
+    "steps": 150,
+    "seconds": 25.804689675569534
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "combined_medium",
+    "success": false,
+    "steps": 280,
+    "seconds": 49.267904840409756
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "original",
+    "success": true,
+    "steps": 144,
+    "seconds": 24.765544168651104
+  },
+  {
+    "suite": "object",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "combined_medium",
+    "success": false,
+    "steps": 280,
+    "seconds": 47.501548022031784
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "original",
+    "success": true,
+    "steps": 123,
+    "seconds": 20.582625724375248
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 30,
+    "seed": 1030,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 112,
+    "seconds": 19.797230318188667
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "original",
+    "success": true,
+    "steps": 111,
+    "seconds": 20.06833551824093
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 31,
+    "seed": 1031,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 221,
+    "seconds": 38.870118632912636
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "original",
+    "success": true,
+    "steps": 127,
+    "seconds": 22.25902509689331
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 32,
+    "seed": 1032,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 150,
+    "seconds": 25.527100078761578
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "original",
+    "success": true,
+    "steps": 134,
+    "seconds": 22.782487958669662
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 33,
+    "seed": 1033,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 122,
+    "seconds": 21.95186009258032
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "original",
+    "success": true,
+    "steps": 109,
+    "seconds": 19.460334666073322
+  },
+  {
+    "suite": "goal",
+    "task": 0,
+    "state": 34,
+    "seed": 1034,
+    "condition": "combined_medium",
+    "success": true,
+    "steps": 113,
+    "seconds": 20.06911461800337
+  }
+]

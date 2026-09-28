@@ -33,6 +33,26 @@ A personal archive of reproduction experiments. Model weights: [laroi0124/SmolVL
 
 These are observed results in this project's environment, not official paper results. The evaluations in this table use 10 initial states per task (0–9), seed 1000, batch size 1, AMP disabled, and 10 flow integration steps. Compare the parent and teacher only at the same action execution interval. No claim of 300/300 success is made.
 
+## AnyCamVLA Small-Sample Pilot (2026-09-29)
+
+Frozen 100k parent, one task each from Spatial/Object/Goal, five initial states
+per task (30–34), action horizon 1 and flow integration 10. Medium camera
+perturbation: radius +10cm, azimuth +30°, elevation +5°; wrist camera unchanged.
+
+| Condition | Spatial task 0 | Object task 0 | Goal task 0 | Total |
+|---|---:|---:|---:|---:|
+| Original view | 4/5 | 4/5 | 5/5 | **13/15** |
+| Medium, no adaptation | 4/5 | 1/5 | 5/5 | **10/15** |
+| Medium + official LVSM (AnyCamVLA) | 4/5 | 5/5 | 5/5 | **14/15** |
+
+No policy training or weight changes. Compared with Medium alone: 5 paired gains,
+1 loss, net +4 successes. This is a small integration pilot, **not a full
+Short-300 evaluation** or an official-paper reproduction. The extra success
+above the original view is not evidence of general superiority.
+
+[Adapter, runner, configuration notes and per-episode results](experiments/anycam/README.md).
+Official code and weights are linked rather than copied into this repository.
+
 ## Files and Limitations
 
 - `results/`: evaluation outputs and summaries.
